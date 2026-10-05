@@ -1,0 +1,36 @@
+name: Pluto Español
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Crear lista Pluto Español
+        run: |
+          mkdir -p output
+          echo '#EXTM3U' > output/pluto_espanol.m3u8
+
+          for region in ar cl es mx; do
+            curl -L --fail \
+              "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/pluto_${region}.m3u8" \
+              | sed '/^#EXTM3U/d' >> output/pluto_espanol.m3u8
+          done
+
+      - name: Guardar lista
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/pluto_espanol.m3u8
+          git diff --cached --quiet || git commit -m "Update Pluto Español"
+          git push
