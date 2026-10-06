@@ -23,7 +23,7 @@ jobs:
 
           for region in ar cl es mx; do
             curl -L --fail \
-              "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/pluto_${region}.m3u8" \
+              "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_${region}.m3u" \
               | sed '/^#EXTM3U/d' >> output/pluto_espanol.m3u8
           done
 
