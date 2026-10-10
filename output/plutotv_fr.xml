@@ -2061,6 +2061,11 @@
         <desc>Accusé à tort du meurtre d’un de ses collègues, un flic chevronné de Los Angeles se voit obligé de lutter contre un système policier corrompu auquel il a pris part toute sa carrière.</desc>
         <icon src="https://images.pluto.tv/series/606eda945426cf001a3a8cd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60c3472a51a2050008dad272" start="20261011013512 +0000" stop="20261011032903 +0000">
+        <title>Kinatay</title>
+        <desc>Peping, étudiant en criminologie, rejoint un gang de Manille pour gagner l’argent nécessaire à son mariage. Mais, ayant besoin de plus, il accepte la proposition d’Abyong de participer à une “mission spéciale” très bien rémunérée.</desc>
+        <icon src="https://images.pluto.tv/series/69808683acf7dd3dc48ecd09/tile_1770030724858.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60d35a74c63c3c0008df6a90" start="20261010204202 +0000" stop="20261010214951 +0000">
         <title>MotherFatherSon: Épisode 8</title>
         <desc>A l'approche des élections, Kathryn se voit offrir une opportunité qui pourrait tout changer. Que deviendra la nation après la plus controversée des campagnes politiques ?</desc>
@@ -2150,6 +2155,11 @@
         <title>Star Trek III: À la recherche de Spock</title>
         <desc>La victoire de l'amiral Kirk sur Khan et la création de la planète Genesis sont des victoires amères. Spock est mort et McCoy sombre inexplicablement dans la folie. Une visite surprise de Sarek, le père de Spock, apporte une étonnante révélation.</desc>
         <icon src="https://images.pluto.tv/series/661e6850acbc6800139265e5/tile_1779837841875.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261011013907 +0000" stop="20261011034158 +0000">
+        <title>Star Trek IV: Retour sur Terre</title>
+        <desc>Au XXIIIe siècle, une puissance aliène vide les océans. Pour sauver l'humanité, Kirk et son équipage doivent remonter le temps jusqu'en 1986 où ils découvrent un monde totalement inconnu à leurs yeux : des gens bizarres, des pizzas, des bus.</desc>
+        <icon src="https://images.pluto.tv/series/661e6841acbc680013926122/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3e0522443200008c567d7" start="20261010205753 +0000" stop="20261010215653 +0000">
         <title>Ceux de 14: Les Eparges</title>
@@ -2310,6 +2320,11 @@
         <title>Mutant Chronicles</title>
         <desc>Mitch Hunter, soldat du 28e siècle, mène un combat contre une armée de mutants de la pègre.</desc>
         <icon src="https://images.pluto.tv/series/69808250ec7e3a1f3acdb404/tile_1770029649100.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a69ef53af63d000825e0ee" start="20261011030246 +0000" stop="20261011043113 +0000">
+        <title>Fire Island</title>
+        <desc>Sur l'île d'Hawaï, un supervolcan entre soudainement en éruption. Toute la population est menacée par ce qui s'annonce comme le plus grand cataclysme volcanique de tous les temps.</desc>
+        <icon src="https://images.pluto.tv/series/68220fdda8cdcdbb7df1579c/tile_1776974075949.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65cce14060eb870008dbd003" start="20261010211247 +0000" stop="20261010213840 +0000">
         <title>Cheers</title>
@@ -7536,6 +7551,11 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
         <desc>Après des années de guerre, la Fédération et l'empire klingon préparent un accord de paix lorsqu'un navire klingon manque d'être détruit, apparemment par l'Enterprise. Les deux mondes se préparent à ce qui pourrait être un affrontement meurtrier.</desc>
         <icon src="https://images.pluto.tv/series/601cfbd5e17f63001ae1a66c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261011054458 +0000" stop="20261011075158 +0000">
+        <title>Star Trek VI: Terre Inconnue</title>
+        <desc>Le seul espoir d'avenir pour Picard se trouve dans le Nexus… et un légendaire capitaine du passé.</desc>
+        <icon src="https://images.pluto.tv/series/601cfbd3e17f63001ae1a640/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3e0522443200008c567d7" start="20261011005253 +0000" stop="20261011024653 +0000">
         <title>Un adultère</title>
         <desc>Julien et Marie sont mariés et parents d’un adolescent, Mathias. C’est un couple heureux et uni. Puis Julien rencontre la jeune Alice et entame avec elle une relation adultère dont les conséquences s’avèreront cruelles</desc>
@@ -8675,6 +8695,11 @@ L'aventure commence pour Takato et Guilmon !</desc>
     <programme channel="662a622b5e2370000800f392" start="20261011034607 +0000" stop="20261011055624 +0000">
         <title>Faites Entrer L'Accusé: Pierre Chanal, les disparus de Mourmelon</title>
         <desc>Entre 1980 et 1987, au moins 8 jeunes gens, six appelés et deux civils ont disparu à proximité du camp militaire de Mourmelon, en Champagne.</desc>
+        <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1774603440996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a622b5e2370000800f392" start="20261011055624 +0000" stop="20261011075554 +0000">
+        <title>Faites Entrer L'Accusé: André Bamberski, promesse à Kalinka</title>
+        <desc>Le 10 juillet 1982, Kalinka, une adolescente âgée de 14 ans, est retrouvée morte dans son lit, dans la maison du nouveau mari de sa mère, à Lindau, en Allemagne.</desc>
         <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1774603440996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="662a63275a402e00086bc8a5" start="20261011011300 +0000" stop="20261011014025 +0000">
@@ -12821,6 +12846,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Kane est un lieutenant pour l’entreprise Ex-O qui prépare de nouvelles planètes à accueillir des Terriens. Un jour, il découvre que l’entreprise a le projet secret de propager un virus...</desc>
         <icon src="https://images.pluto.tv/series/610116c8f36aad0014ff8b0e/tile_1777913293340.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60c34592c911890007f29a73" start="20261011093322 +0000" stop="20261011110624 +0000">
+        <title>Planet Dune</title>
+        <desc>Une mission spatiale s’écrase sur une planète hostile où des créatures géantes rôdent dans le désert.</desc>
+        <icon src="https://images.pluto.tv/series/67b3684c5e644ca0d75b2d1e/tile_1776896718599.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c3472a51a2050008dad272" start="20261011045603 +0000" stop="20261011062427 +0000">
         <title>Blindfire</title>
         <desc>Appelé pour une violente dispute domestique, Will Bishop, officier de police, tue un suspect afro-américain, dont il apprend après l'innocence. Soupçonnant un coup monté, le policier décide de traquer le responsable et interroge le racisme qu'il l'a...</desc>
@@ -12925,6 +12955,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>Star Trek VII: Générations</title>
         <desc>L’équipage du vaisseau de la Fédération, l’Enterprise, est appelé sur Nimbus III, la Planète de la Paix Galactique. Menant les négociations dans un cas de prise d’otage, ils découvrent que le ravisseur n’est autre qu’un parent de Spock.</desc>
         <icon src="https://images.pluto.tv/series/601cfbd1e17f63001ae1a614/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261011100658 +0000" stop="20261011120201 +0000">
+        <title>Star Trek: Premier Contact</title>
+        <desc>Ils se font appeler les Borgs - des entités moitié organiques, moitié machines, dont le seul but est de conquérir et assimiler toutes les autres races.</desc>
+        <icon src="https://images.pluto.tv/series/661e4c231ed2fc0013dc1233/tile_1776893577976.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3e0522443200008c567d7" start="20261011043325 +0000" stop="20261011062927 +0000">
         <title>Robinson Crusoe</title>
@@ -23821,6 +23856,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <desc>2259. Starfleet, l'institution chargée de la défense de la Fédération des planètes unies, est menacée par un terroriste du nom de John Harisson2, qui vise à détruire la flotte et les valeurs qu'elle représente.</desc>
         <icon src="https://images.pluto.tv/series/661e6844acbc680013926281/tile_1779837841931.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261011181334 +0000" stop="20261011204234 +0000">
+        <title>Star Trek, le film</title>
+        <desc>Quand un étranger non identifié détruit trois puissants croiseurs klingons, le capitaine James T. Kirk (William Shatner) retourne prendre les commandes du vaisseau remodelé, l'USS Enterprise™.</desc>
+        <icon src="https://images.pluto.tv/series/6038aae0c9165e00145d4348/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3e0522443200008c567d7" start="20261011131404 +0000" stop="20261011150505 +0000">
         <title>Napoleon</title>
         <desc>Échappant à un attentat, Napoléon fait exécuter le duc d'Enghien pour s'assurer le soutien des Jacobins. Il est sacré Empereur, mais les puissances européennes refusent sa légitimité et lui déclarent la guerre.</desc>
@@ -27451,6 +27491,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <title>2014 FIFA World Cup</title>
         <desc>In a rematch of the 2010 World Cup Final, defending champion Spain battles the Netherlands in their opening Group Stage match. From Octavio Mangabeira Stadium in Salvador, Brazil.</desc>
         <icon src="https://images.pluto.tv/series/67b36b7c96446070bd3ce0b9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20261011173800 +0000" stop="20261011193200 +0000">
+        <title>2015 FIFA Women's World Cup</title>
+        <desc>Watch the full match replay between Spain and Costa Rica played at Olympic Stadium, Montreal.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b8796446070bd3cf4b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45b36a72e7b0008a2b291" start="20261011130000 +0000" stop="20261011140000 +0000">
         <title>Top stories from CNN</title>
@@ -32907,6 +32952,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <title>2023 FIFA Women's World Cup</title>
         <desc>Matches of the ninth FIFA women's football championship in Australia and New Zealand.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6e96446070bd3cc7cd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20261011215300 +0000" stop="20261011223700 +0000">
+        <title>World Champions: France 1998</title>
+        <desc>The iconic home soil triumph of France at the 1998 FIFA World Cup.</desc>
+        <icon src="https://images.pluto.tv/series/688a17e56cc84ff3ed259375/tile_1761603003639.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45b36a72e7b0008a2b291" start="20261011170000 +0000" stop="20261011180000 +0000">
         <title>Top stories from CNN</title>
