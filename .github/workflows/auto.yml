@@ -23,7 +23,8 @@ jobs:
 
       - name: Run scraper
         run: node index.js
-
+      - name: Generate USA Latino playlist
+        run: node filtrar_latino.js
       - name: Commit files
         run: |
           git config --global user.name "github-actions"
